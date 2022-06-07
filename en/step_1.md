@@ -1,59 +1,52 @@
-## Introduction
+Right click on the image on your webpage and select `Copy image address`:
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+![The output area in trinket with large beetle image. The rightclick menu has an option selected to 'Copy image address'.](images/copy-image-address.png)
 
-### What you will make
+In a new browser window, go to [coolors.co](https://coolors.co){:target="_blank"} and select the `Tools` menu then `Image picker`:
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![The coolors.co website with tolls selected from the top right corner. The 'Image picker' tool is highlighted in the drop down menu.](images/image-picker-menu.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Click on the `Browse image` button: 
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![The browse image button.](images/browse-image-button.png)
 
---- collapse ---
+Click on `URL` then paste the copied image address into the `Image URL` box. Click `OK`:
+
+![The Select image box with URL selected and the image address for the beetle image copied in.](images/select-image-box.png)
+
+Sample palettes are created from your image. You can use the `picked palette` slider to select which colour scheme you want to use:
+
+![The picked palette slider is a third of the way across. The image is shown with hotspots showing where the colours have been selected from.](images/generated-image-palettes.png)
+
+When you are happy with the palette, click on the dropdown arrow of the `Export palette` button and select `Open in the generator`:
+
+![The Export palette menu with the top item 'open in the generator' selected.](images/generate-palette-menu.png)
+
+The final palette will be shown. The coded letters and numbers are the hex codes for your chosen colours. Update the variable values in your `default.css` file to use these new colours:
+
+![Squares of colour with the hex codes written on them.](images/final-image-palette.png)
+
+
+--- code ---
 ---
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
+language: html
+filename: default.css
+line_numbers: true
+line_number_start: 4
+line_highlights: 5-14
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+:root {
+  --primary: #08586B;
+  --onprimary:#4f4e4e;
+  --secondary: #E0DB54;
+  --onsecondary:#ffffff;
+  --tertiary:#AF5C08;
+  --ontertiary: #ffffff;
+  --page:#ffffff;
+  --onpage:#000000;
+  --detail: #AB7C1C;
+  --detail2: #38640D;
+}
 
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+--- /code ---
