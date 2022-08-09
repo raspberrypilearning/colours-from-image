@@ -1,12 +1,12 @@
-Right-click on the image on your webpage and select `Copy image address`.
+Right-click on the image on your webpage and select 'Copy image address'.
 
 ![The output area in Trinket with a large beetle image. The right-click menu has an option selected to 'Copy image address'.](images/copy-image-address.png)
 
-In a new browser window, go to [coolors.co](https://coolors.co){:target="_blank"}. Select the `Tools` menu then `Image picker`.
+In a new browser window, go to [coolors.co](https://coolors.co){:target="_blank"}. Select the 'Tools' menu then 'Image picker'.
 
 ![The coolors.co website with tolls selected from the top right corner. The 'Image picker' tool is highlighted in the drop-down menu.](images/image-picker-menu.png)
 
-Click on the `Browse image` button. 
+Click on the 'Browse image' button. 
 
 ![The browse image button.](images/browse-image-button.png)
 
