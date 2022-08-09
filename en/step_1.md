@@ -14,7 +14,7 @@ Click on 'URL' then paste the copied image address into the 'Image URL' box. Cli
 
 ![The Select image box with URL selected and the image address for the beetle image copied in.](images/select-image-box.png)
 
-Sample palettes are created from your image. You can use the 'picked palette' slider to select which colour scheme you want to use.
+Sample palettes are created from your image. You can use the 'Picked palettes' slider to select which colour scheme you want to use.
 
 ![The picked palette slider is a third of the way across. The image is shown with hotspots showing where the colours have been selected from.](images/generated-image-palettes.png)
 
