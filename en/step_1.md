@@ -1,4 +1,4 @@
-Right click on the image on your web page and select `Copy image address`:
+Right click on the image on your web page and select `Copy image address` or `Copy Image Link`:
 
 ![The output area in trinket with large beetle image. The rightclick menu has an option selected to 'Copy image address'.](images/copy-image-address.png)
 
