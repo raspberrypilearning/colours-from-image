@@ -1,30 +1,30 @@
-Right click on the image on your web page and select `Copy image address` or `Copy Image Link`:
+Klik met de rechtermuisknop op de afbeelding op jouw webpagina en selecteer 'Copy image address' of 'Copy Image Link':
 
-![The output area in Trinket with a large beetle image. The right-click menu has an option selected to 'Copy image address'.](images/copy-image-address.png)
+![Het uitvoergebied in Trinket met een grote keverafbeelding. In het rechtermuisknopmenu is de optie 'Copy image address' geselecteerd.](images/copy-image-address.png)
 
-In a new browser window, go to [coolors.co](https://coolors.co){:target="_blank"}. Select the 'Tools' menu then 'Image picker'.
+Ga in een nieuw browservenster naar [coolors.co](https://coolors.co){:target="_blank"}. Selecteer het menu 'Tools' en dan 'Image picker'.
 
-![The coolors.co website with tolls selected from the top right corner. The 'Image picker' tool is highlighted in the drop-down menu.](images/image-picker-menu.png)
+![De coolors.co website met tools geselecteerd in de rechterbovenhoek. De tool 'Image picker' is gemarkeerd in het drop-down menu.](images/image-picker-menu.png)
 
-Click on the 'Browse image' button.
+Klik op de knop 'Browse image'.
 
-![The browse image button.](images/browse-image-button.png)
+![De knop Browse image.](images/browse-image-button.png)
 
-Click on 'URL' then paste the copied image address into the 'Image URL' box. Click 'OK'.
+Klik op 'URL' en plak het gekopieerde afbeeldingsadres in het vak 'Image URL'. Klik op 'OK'.
 
-![The Select image box with URL selected and the image address for the beetle image copied in.](images/select-image-box.png)
+![Het Select image vak met geselecteerde URL en het afbeeldingsadres voor de keverafbeelding erin gekopieerd.](images/select-image-box.png)
 
-Sample palettes are created from your image. You can use the 'Picked palettes' slider to select which colour scheme you want to use.
+Er worden voorbeeldpaletten gemaakt op basis van jouw afbeelding. Je kunt de schuifregelaar 'Picked palettes' gebruiken om te selecteren welk kleurenschema je wilt gebruiken.
 
-![The picked palette slider is a third of the way across. The image is shown with hotspots showing where the colours have been selected from.](images/generated-image-palettes.png)
+![De picked paletschuifregelaar staat op een derde van de breedte. De afbeelding wordt weergegeven met hotspots die laten zien waarvan de kleuren zijn geselecteerd.](images/generated-image-palettes.png)
 
-When you are happy with the palette, click on the drop-down arrow of the 'Export palette' button and select 'Open in the generator'.
+Als je tevreden bent met het palet, klik dan op de dropdown-pijl van de 'Export palette' knop en selecteer 'Open in the generator'.
 
-![The Export palette menu with the top item 'open in the generator' selected.](images/generate-palette-menu.png)
+![Het Export palette menu met het bovenste item 'open in the generator' geselecteerd.](images/generate-palette-menu.png)
 
-The final palette is shown. The coded letters and numbers are the hex codes for your chosen colours. Update the variable values in your `default.css` file to use these new colours.
+Het uiteindelijke palet wordt getoond. De gecodeerde letters en cijfers zijn de hexadecimale codes van de door jou gekozen kleuren. Update de variabelewaarden in je `default.css` bestand om deze nieuwe kleuren te gebruiken.
 
-![Squares of colour with the hex codes written on them.](images/final-image-palette.png)
+![Gekleurde vierkanten met de hexadecimale codes erop geschreven.](images/final-image-palette.png)
 
 ## --- code ---
 
