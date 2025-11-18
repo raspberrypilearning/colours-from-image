@@ -1,30 +1,30 @@
-Right click on the image on your web page and select `Copy image address` or `Copy Image Link`:
+Haga clic derecho en la imagen en su página web y seleccione `Copy image address` o `Copy image address`:
 
-![The output area in Trinket with a large beetle image. The right-click menu has an option selected to 'Copy image address'.](images/copy-image-address.png)
+![El área de salida en Trinket con una imagen grande de un escarabajo. El menú del clic derecho tiene una opción para 'Copy image address'.](images/copy-image-address.png)
 
-In a new browser window, go to [coolors.co](https://coolors.co){:target="_blank"}. Select the 'Tools' menu then 'Image picker'.
+En una nueva ventana del navegador, vaya a [coolors.co](https://coolors.co){:target="_blank"}. Seleccione el menu 'Tools' despues 'Image picker'.
 
-![The coolors.co website with tolls selected from the top right corner. The 'Image picker' tool is highlighted in the drop-down menu.](images/image-picker-menu.png)
+![El sitio web coolors.co con tarifas seleccionados en la esquina superior derecha. La herramienta 'Image picker' está resaltada en el menú desplegable.](images/image-picker-menu.png)
 
-Click on the 'Browse image' button.
+Haga clic en el botón 'Browse image'.
 
-![The browse image button.](images/browse-image-button.png)
+![El botón para buscar la imagen.](images/browse-image-button.png)
 
-Click on 'URL' then paste the copied image address into the 'Image URL' box. Click 'OK'.
+Haga clic en 'URL' y después copie la dirección de la imagen dentro del cuadro de 'Image URL'. Hega clic en 'OK'.
 
-![The Select image box with URL selected and the image address for the beetle image copied in.](images/select-image-box.png)
+![El cuadro de selección de imagen con la URL seleccionada y la dirección de imagen para la imagen del escarabajo copiada en.](images/select-image-box.png)
 
-Sample palettes are created from your image. You can use the 'Picked palettes' slider to select which colour scheme you want to use.
+Se han creado paletas de muestra de tu imagen. Puedes usar el deslizador de 'Picked palettes' para seleccionar cual paleta de colores desea usar.
 
-![The picked palette slider is a third of the way across. The image is shown with hotspots showing where the colours have been selected from.](images/generated-image-palettes.png)
+![El deslizador de la paleta escogida es un tercio del camino a través. La imagen se muestra con circulos llamativos resaltando donde se han seleccionado los colores.](images/generated-image-palettes.png)
 
-When you are happy with the palette, click on the drop-down arrow of the 'Export palette' button and select 'Open in the generator'.
+Cuando esté contento con su paleta, haga clic en el botón con la flecha hacia abajo al lado del botón 'Export palette' y seleccione 'Open in the generator'.
 
-![The Export palette menu with the top item 'open in the generator' selected.](images/generate-palette-menu.png)
+![El menú para exportar una paleta con el elemento superior 'open in the generator' seleccionado.](images/generate-palette-menu.png)
 
-The final palette is shown. The coded letters and numbers are the hex codes for your chosen colours. Update the variable values in your `default.css` file to use these new colours.
+Se muestra la paleta final. Las letras y números codificados son los códigos hexadecimales para los colores que has elegido. Actualiza los valores de las variables en tu archivo `default.css` para usar estos nuevos colores.
 
-![Squares of colour with the hex codes written on them.](images/final-image-palette.png)
+![Cuadros de color con los códigos hexadecimales escritos en ellos.](images/final-image-palette.png)
 
 ## --- code ---
 
